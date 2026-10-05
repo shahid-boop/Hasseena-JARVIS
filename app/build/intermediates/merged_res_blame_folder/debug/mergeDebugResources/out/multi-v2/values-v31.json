@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hasseena.jarvis.app-mergeDebugResources-21:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/Hasseena/Hasseena-JARVIS/app/src/main/res/values-v31/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "698"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "737"
+                    }
+                }
+            ]
+        }
+    ]
+}

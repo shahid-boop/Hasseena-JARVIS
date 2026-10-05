@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.hasseena.jarvis.app-debug-23:/drawable-nodpi_hasseena_splash.png.flat",
+        "source": "com.hasseena.jarvis.app-main-25:/drawable-nodpi/hasseena_splash.png"
+    },
+    {
+        "merged": "com.hasseena.jarvis.app-debug-23:/drawable_bubble_user.xml.flat",
+        "source": "com.hasseena.jarvis.app-main-25:/drawable/bubble_user.xml"
+    },
+    {
+        "merged": "com.hasseena.jarvis.app-debug-23:/drawable-nodpi_hasseena_icon.png.flat",
+        "source": "com.hasseena.jarvis.app-main-25:/drawable-nodpi/hasseena_icon.png"
+    },
+    {
+        "merged": "com.hasseena.jarvis.app-debug-23:/drawable-nodpi_hasseena_loading.png.flat",
+        "source": "com.hasseena.jarvis.app-main-25:/drawable-nodpi/hasseena_loading.png"
+    },
+    {
+        "merged": "com.hasseena.jarvis.app-debug-23:/layout_activity_main.xml.flat",
+        "source": "com.hasseena.jarvis.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hasseena.jarvis.app-debug-23:/layout_activity_splash.xml.flat",
+        "source": "com.hasseena.jarvis.app-main-25:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.hasseena.jarvis.app-debug-23:/drawable_bubble_ai.xml.flat",
+        "source": "com.hasseena.jarvis.app-main-25:/drawable/bubble_ai.xml"
+    }
+]

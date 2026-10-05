@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color ai_bubble
+color bg
+color muted
+color panel
+color text
+color user_bubble
+drawable bubble_ai
+drawable bubble_user
+drawable hasseena_icon
+drawable hasseena_loading
+drawable hasseena_splash
+id chat
+id input
+id mic
+id scroll
+id send
+id settings
+id splashImage
+id status
+id title
+layout activity_main
+layout activity_splash
+style AppTheme
+style SplashTheme
