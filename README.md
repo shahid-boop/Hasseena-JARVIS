@@ -1,6 +1,6 @@
 # Hasseena — Android JARVIS-style AI Assistant
 
-Hasseena is an Android-native adaptation inspired by the architecture and feature ideas found in the supplied Mark-LV project. The original Mark-LV source is preserved under `marklv-reference/` for reference; it is **not copied into the Android runtime** because its PyQt6/desktop-control stack is not Android-compatible.
+Hasseena is an Android-native adaptation inspired by the architecture and feature ideas found by my self.
 
 ## What is included
 - Android Studio Gradle project
@@ -20,7 +20,8 @@ Hasseena is an Android-native adaptation inspired by the architecture and featur
 3. Use JDK 17.
 4. Sync Gradle.
 5. Run on an Android 8.0+ device/emulator.
-6. Open **Settings** inside Hasseena and add your Gemini API key.
+   
+7. Open **Settings** inside Hasseena and add your Gemini API key.
 
 ## Important
 The API key is stored locally in app preferences for this starter build. For a production app, move model calls behind your own authenticated backend so a client-side key is not exposed.
